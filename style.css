@@ -30,19 +30,23 @@
   margin-top: 40px;
 }
 .social-icon {
-  width: 25px;
-  height: 25px;
+  width: 22px;
+  height: 22px;
   margin-left: 20px;
-  margin-top: 40px;
+  margin-top: 38px;
+  
 }
 
 .social-nav {
   display: flex;
   border-radius: 8px;
+ 
+  
 }
 
 .nav-icon {
   display: flex;
+ 
 }
 .nav-icon h3 {
   color: #0b0223;
